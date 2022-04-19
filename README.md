@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p>
    <a href="https://www.linkedin.com/in/sergargar/">
-     <img src="https://img.shields.io/badge/-@jfagoagas-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jfagoagas/" alt="LinkedIn Badge">
+     <img src="https://img.shields.io/badge/-@jfagoagas-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/sergargar/" alt="LinkedIn Badge">
   </a>
     <a href="https://github.com/sergargar">
     <img height="20" src="https://img.shields.io/github/followers/jfagoagas?label=follow&logo=github&style=flat-square" />
