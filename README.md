@@ -3,6 +3,8 @@
 I'm Sergio Garcia, a cloud security engineer from 🇪🇸 Spain.
 
 🔒  Currently working at Verica in the Prowler Pro team.
+
+🔭 [Prowler OSS](https://github.com/prowler-cloud/prowler) maintainer.
 <!--
 **jfagoagas/jfagoagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
