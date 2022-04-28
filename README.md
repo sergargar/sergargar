@@ -28,3 +28,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/sergargar?label=follow&logo=github&style=flat-square" />
   </a>
 </p>
+<a href="https://github.com/sergargar/github-readme-stats" target="_blank">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=sergargar&count_private=true&show_icons=true" />
+</a>
