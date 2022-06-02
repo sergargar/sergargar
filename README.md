@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 -->
 
 <p>
-   <a href="https://www.linkedin.com/in/sergargar/">
+  <a href="https://www.linkedin.com/in/sergargar/">
      <img src="https://img.shields.io/badge/-@sergargar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/sergargar/" alt="LinkedIn Badge">
   </a>
-    <a href="https://github.com/sergargar">
+  <a href="https://github.com/sergargar">
     <img height="20" src="https://img.shields.io/github/followers/sergargar?label=follow&logo=github&style=flat-square" />
+  </a>
+  <a href="http://twitter.com/garcitm">
+    <img height="20" src="https://img.shields.io/twitter/follow/garcitm?label=Twitter&logo=twitter&style=flat-square" />
   </a>
 </p>
 <a href="https://github.com/sergargar/github-readme-stats" target="_blank">
