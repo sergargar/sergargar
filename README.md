@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/sergargar">
     <img height="20" src="https://img.shields.io/github/followers/sergargar?label=follow&logo=github&style=flat-square" />
   </a>
-  <a href="http://twitter.com/garcitm">
-    <img height="20" src="https://img.shields.io/twitter/follow/garcitm?label=Twitter&logo=twitter&style=flat-square" />
+  <a href="http://twitter.com/sergargar1">
+    <img height="20" src="https://img.shields.io/twitter/follow/sergargar1?label=Twitter&logo=twitter&style=flat-square" />
   </a>
 </p>
 <a href="https://github.com/sergargar/github-readme-stats" target="_blank">
