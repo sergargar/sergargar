@@ -2,6 +2,6 @@
 
 I'm Sergio Garcia, a cloud security engineer from 🇪🇸 Spain.
 
-🔒  Currently working at [Verica](https://verica.io) in the [Prowler Pro](https://prowler.pro) team.
+🔒  Currently working in [Prowler Pro](https://prowler.pro).
 
 🔭 [Prowler OSS](https://github.com/prowler-cloud/prowler) maintainer.
